@@ -153,12 +153,11 @@ Andreas Sembiring
 
 Project ini dibuat untuk keperluan akademis - Tugas Big Data.
 
-
 🙏 Credits
 
-Open-Meteo API: Weather data provider
+Open-Meteo API: Weather data provider 
 
-Streamlit: Web dashboard framework
+Streamlit: Web dashboard framework 
 
 Python Community: Amazing libraries     
 
