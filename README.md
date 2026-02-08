@@ -115,15 +115,15 @@ Kategori Kondisi Traffic:
 
 KondisiRange Kendaraan
 
-🟢 Lancar0 - 100
+🟢 Lancar 0 - 100
 
-🟡 Sedang100 - 200
+🟡 Sedang 100 - 200
 
-🟠 Padat200 - 350
+🟠 Padat 200 - 350
 
-🔴 Sangat Padat350 - 500
+🔴 Sangat Padat 350 - 500
 
-⚫ Macet500+
+⚫ Macet 500+
 
 Pengaruh Hujan
 
@@ -144,8 +144,8 @@ Data: Temperature, precipitation, windspeed, weather code
 
 Timezone: Asia/Jakarta
 
-👨‍💻 Developer
 
+👨‍💻 Developer  
 Andreas Sembiring
 
 
@@ -153,12 +153,13 @@ Andreas Sembiring
 
 Project ini dibuat untuk keperluan akademis - Tugas Big Data.
 
+
 🙏 Credits
 
 Open-Meteo API: Weather data provider
 
 Streamlit: Web dashboard framework
 
-Python Community: Amazing libraries
+Python Community: Amazing libraries     
 
  
