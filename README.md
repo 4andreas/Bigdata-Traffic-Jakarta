@@ -147,17 +147,4 @@ Timezone: Asia/Jakarta
 
 👨‍💻 Developer  
 Andreas Sembiring
-
-
-📄 License
-
-Project ini dibuat untuk keperluan akademis - Tugas Big Data.
-
-🙏 Credits
-
-Open-Meteo API: Weather data provider 
-
-Streamlit: Web dashboard framework 
-
-Open-source Python
  
