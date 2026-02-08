@@ -53,11 +53,13 @@ Scikit-learn	      Machine learning analytics
 1️⃣ Clone Repository
 bashgit clone https://github.com/4andreas/-Bigdata-Traffic-Jakarta.git
 cd -Bigdata-Traffic-Jakarta
+
 2️⃣ Install Dependencies
 Pastikan Python 3.8+ sudah terinstall, lalu:
 bashpip install -r requirements.txt
 Atau install manual:
 bashpip install pandas numpy requests streamlit matplotlib scikit-learn
+
 3️⃣ Jalankan Aplikasi
 bashstreamlit run app.py
 Dashboard akan terbuka otomatis di browser pada:
